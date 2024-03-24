@@ -1,5 +1,6 @@
 Project goal:
 In this repository I'm aiming to successfully perform sentiment analysis on at least 10000 AI related posts to determine the general publics attitude towards AI.
+
 STEPS:
 1. sucessfully run a model capable of doing sentiment analysis to determine the posters attitude towards AI or particular models in a scalable way.
 2. Retrieve a large set of user data regarding AI on social media, hopefully at least 10000 data points large. (could require identification)
